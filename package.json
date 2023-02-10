@@ -1,0 +1,24 @@
+{
+  "name": "casa_de_cambio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardoJFilho/casa_de_cambio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernardoJFilho/casa_de_cambio/issues"
+  },
+  "homepage": "https://github.com/BernardoJFilho/casa_de_cambio#readme",
+  "type": "module",
+  "dependencies": {
+    "vite": "^4.1.1"
+  }
+}
